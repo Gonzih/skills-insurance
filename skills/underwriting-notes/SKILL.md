@@ -24,4 +24,48 @@ List the attributes that support writing the risk (e.g., experienced management,
 Recommend coverage terms, pricing direction, sublimits, deductibles, and any conditions, warranties, or exclusions needed to make the risk acceptable. Note any referrals or approvals required.
 
 ## Example outputs
-A memo-style document with sections: **Risk Profile**, **Favorable Factors**, **Concerns**, **Proposed Terms & Conditions**, and **Recommendation**, formatted for inclusion in an underwriting file.
+
+```
+UNDERWRITING NOTES
+────────────────────────────────────────────────────────────
+Account:      Maple Street Auto Repair LLC
+Line:         Commercial General Liability + Commercial Auto
+Submitted:    2024-03-20     Underwriter: J. Torres
+
+RISK PROFILE
+• Auto repair shop, 3 locations in suburban Ohio
+• Annual revenue: $2.1M | Payroll: $480K | 14 employees
+• 22 years in business under current ownership
+• Owns building at main location; leases two secondary shops
+• Fleet: 4 courtesy vehicles, 1 tow truck
+
+FAVORABLE FACTORS
+✓ 22-year account with no prior carrier losses reported (verified via CLUE)
+✓ Owner holds ASE Master Technician certification; all techs ASE-certified
+✓ Fire suppression and security systems at all locations
+✓ Separate secure lot with CCTV for customer vehicle storage
+✓ Revenue growth (+12% YoY) suggests stable, well-run operation
+
+CONCERNS
+⚠ Garagekeepers exposure: avg. 45 vehicles on premises nightly across 3
+  locations — current sublimit ($350K) may be inadequate; recommend $500K.
+⚠ One at-fault auto accident (2022, $18K) involving courtesy vehicle;
+  driver has since completed defensive driving course.
+⚠ Secondary locations are leased — confirm tenant's liability and any
+  landlord requirements in lease agreements.
+⚠ No pollution/environmental coverage in current program; oil/solvent
+  storage creates potential ground contamination exposure.
+
+PROPOSED TERMS & CONDITIONS
+  CGL:       $1M/$2M occurrence/aggregate; $500K products-completed ops
+  Garage Liability: $1M CSL
+  Garagekeepers Legal Liability: $500K (increase from $350K)
+  Commercial Auto: $1M CSL; scheduled fleet; MVR required annually
+  Pollution:  recommend environmental impairment liability endorsement
+  Premium direction: +8% from expiring (loss development + exposure growth)
+  Conditions: signed garage operations warranty; annual MVR pulls
+
+RECOMMENDATION
+Acceptable risk — write subject to pollution endorsement and garagekeepers
+limit increase. Bind at quoted terms pending signed application.
+```
