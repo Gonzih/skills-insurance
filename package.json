@@ -1,0 +1,34 @@
+{
+  "name": "@gonzih/skills-insurance",
+  "version": "1.0.0",
+  "description": "Claude Code skill suite for insurance agents, brokers, and adjusters",
+  "type": "module",
+  "main": "install.js",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "bin": {
+    "skills-insurance": "install.js"
+  },
+  "files": [
+    "skills/",
+    "install.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "insurance",
+    "claims",
+    "underwriting",
+    "coverage"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-insurance"
+  }
+}
