@@ -69,3 +69,9 @@ RECOMMENDATION
 Acceptable risk — write subject to pollution endorsement and garagekeepers
 limit increase. Bind at quoted terms pending signed application.
 ```
+
+## Live Data Sources
+
+- **OSHA Incident Rate Data by SIC Code** — bls.gov/iif — injury and illness rates by industry classification for benchmarking workers' compensation and liability risk
+- **ISO Commercial Lines Rating Bureau Patterns** — verisk.com/insurance/brands/iso — advisory loss costs, rating algorithms, and classification systems for commercial lines underwriting
+- **SOA Actuarial Tables** — soa.org — Society of Actuaries public mortality, morbidity, and loss tables for pricing and reserve adequacy analysis
