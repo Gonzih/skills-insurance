@@ -86,3 +86,10 @@ Sincerely,
 Maria Chen, CPCU
 Account Manager, Hartwell Insurance Group
 ```
+
+## Live Data Sources
+
+- **NAIC Model Laws Database** — naic.org/documents — model regulations and laws governing policy language, renewal notice requirements, and cancellation rules
+- **State DOI Rate Filings** — individual state DOI rate filing portals — approved rates and forms for benchmarking renewal premium changes against filed rates
+- **ISO Policy Form Library Patterns** — verisk.com/insurance/brands/iso — standard policy form editions, endorsements, and advisory loss costs used as industry benchmarks
+- **ACORD Standards** — acord.org — data standards and form specifications for policy and renewal documentation workflows

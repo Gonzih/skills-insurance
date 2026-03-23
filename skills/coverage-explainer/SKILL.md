@@ -70,3 +70,10 @@ EXAMPLES
    discharge); however, if the pipe was corroded and you ignored it for months,
    the insurer may deny on a maintenance-neglect basis.
 ```
+
+## Live Data Sources
+
+- **III Coverage Statistics** — iii.org — industry-wide coverage penetration rates, gap analyses, and consumer insurance trends by line
+- **NAIC Market Conduct Data** — naic.org — market conduct examination reports revealing common coverage dispute patterns by insurer
+- **State-Specific Coverage Mandates Database** — individual state DOI websites — mandatory coverage requirements, minimum limits, and state-specific endorsement rules
+- **Medicare/Medicaid Crosswalk** — cms.gov — coordination of benefits rules for health-related coverages interacting with federal programs

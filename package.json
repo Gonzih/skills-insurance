@@ -1,6 +1,6 @@
 {
   "name": "@gonzih/skills-insurance",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Claude Code skill suite for insurance agents, brokers, and adjusters",
   "type": "module",
   "main": "install.js",

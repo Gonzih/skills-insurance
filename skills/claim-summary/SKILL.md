@@ -62,3 +62,9 @@ NEXT STEPS
 4. Issue reservation of rights re: equipment breakdown coverage.
 5. Evaluate subrogation potential against exhaust-hood service contractor.
 ```
+
+## Live Data Sources
+
+- **NAIC Consumer Complaint Data** — naic.org/cis_consumer_information.htm — complaint ratios by insurer and line of business for benchmarking claim handling quality
+- **State Fair Claims Practices Acts** — individual state DOI websites — statutory timeframes for acknowledgment, investigation, and payment of claims
+- **Adjuster Licensing Requirements by State** — NAIC state contact directory — jurisdiction-specific licensing, CE requirements, and independent adjuster regulations
